@@ -8,8 +8,8 @@ Integrantes:
 - Legajo: 222.114-7
 - Nombre: Noelia Aversa
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 221.421-0 
+- Nombre: Garcia Zaira
 
 
 ## Objetivos
