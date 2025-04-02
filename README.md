@@ -2,11 +2,11 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: ZN
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 222.114-7
+- Nombre: Noelia Aversa
 
 - Legajo: **Completar** 
 - Nombre: **Completar**
